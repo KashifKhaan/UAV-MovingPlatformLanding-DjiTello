@@ -23,6 +23,7 @@ This project aims to develop a UAV system that can autonomously land on a moving
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contributors](#contributors)
 
 ## Background and Motivation
 Traditional UAV landing methods are limited and not suitable for dynamic environments. This project addresses this need for precision, with applications in logistics, military, and rescue missions.
@@ -31,7 +32,6 @@ Traditional UAV landing methods are limited and not suitable for dynamic environ
 https://github.com/user-attachments/assets/efe6aa5e-7c5d-413b-8058-ab73d69cfaa0
 
 https://github.com/user-attachments/assets/c310fbe9-0985-4bed-b44e-b981540e041b
-
 
 ## Objectives
 1. Develop a vision-based system
@@ -131,3 +131,8 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contributors
+- Mohammad Kashif
+- Nabeel Ahmad
+- Muneer Ahmad
