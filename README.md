@@ -137,11 +137,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Nabeel Ahmad
 - Muneer Ahmad
 
-## Acknowledgements
-Jokyfy utilizes programming joke APIs to provide a wide range of humor. We would like to express our gratitude to the following APIs for their contributions:
-
-- [https://official-joke-api.appspot.com/jokes/programming/random](https://github.com/damiafuentes/DJITelloPy)
-
 ## 🔗 Contact
 If you have any questions, suggestions, or feedback, please feel free to reach out to us:
 
