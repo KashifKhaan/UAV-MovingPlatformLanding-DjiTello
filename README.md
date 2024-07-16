@@ -136,3 +136,21 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Mohammad Kashif
 - Nabeel Ahmad
 - Muneer Ahmad
+
+## Acknowledgements
+Jokyfy utilizes programming joke APIs to provide a wide range of humor. We would like to express our gratitude to the following APIs for their contributions:
+
+- [https://official-joke-api.appspot.com/jokes/programming/random](https://github.com/damiafuentes/DJITelloPy)
+
+## 🔗 Contact
+If you have any questions, suggestions, or feedback, please feel free to reach out to us:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-kashif-442146214/)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dribbble.com/Kashif420)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KaxhifKhan)
+
+Email: mrkashi2020@gmail.com
+
+`We appreciate your support and hope you enjoy using Our UAV Project!`
