@@ -3,9 +3,11 @@
 ## Introduction
 This project aims to develop a UAV system that can autonomously land on a moving platform using computer vision and control systems. The focus is on enhancing UAV technology by enabling drones to land on moving platforms with precision, which has applications in logistics, military, and rescue missions.
 
+![image](https://github.com/user-attachments/assets/db815c15-0122-4b36-9e1c-5a8487fd339b)
+
 ## Table of Contents
 - [Introduction](#introduction)
-- [Screenshots/Videos](#screenshots-videos)
+- [Screenshots and Videos](#screenshots-and-videos)
 - [Background and Motivation](#background-and-motivation)
 - [Objectives](#objectives)
 - [Key Components](#key-components)
@@ -25,8 +27,11 @@ This project aims to develop a UAV system that can autonomously land on a moving
 ## Background and Motivation
 Traditional UAV landing methods are limited and not suitable for dynamic environments. This project addresses this need for precision, with applications in logistics, military, and rescue missions.
 
-## Screenshots/Videos
+## Screenshots and Videos
 https://github.com/user-attachments/assets/efe6aa5e-7c5d-413b-8058-ab73d69cfaa0
+
+https://github.com/user-attachments/assets/c310fbe9-0985-4bed-b44e-b981540e041b
+
 
 ## Objectives
 1. Develop a vision-based system
@@ -39,6 +44,8 @@ https://github.com/user-attachments/assets/efe6aa5e-7c5d-413b-8058-ab73d69cfaa0
 ### Hardware Setup
 - **DJI Tello Drone:** Chosen for its lightweight design, programmability, and onboard camera and sensors.
 
+![image](https://github.com/user-attachments/assets/e8c3edd6-4240-4231-8001-6070c6beff81)
+
 ### Software Framework
 - **Programming Language:** Python
 - **IDE:** Visual Studio Code (VSCode)
@@ -47,14 +54,20 @@ https://github.com/user-attachments/assets/efe6aa5e-7c5d-413b-8058-ab73d69cfaa0
 ### Control Interface Module
 - **GUI Features:** Live feed from the camera, manual control buttons, autonomous landing buttons, feedback on altitude, temperature, and height.
 
+![image](https://github.com/user-attachments/assets/24907fe4-583b-403c-9346-e89dc817098a)
+
 ## Camera Calibration
 Camera calibration ensures accurate distance and angle measurements. This is crucial for determining the drone's position and orientation relative to the landing platform.
+
+https://github.com/user-attachments/assets/c310fbe9-0985-4bed-b44e-b981540e041b
 
 ## Pose Estimation
 Pose estimation determines the position and orientation of the drone relative to the landing platform. It uses the camera matrix and distortion coefficients obtained from camera calibration.
 
 ## ArUco Markers
 ArUco markers are used for accurate pose estimation and object tracking. They are square-shaped patterns with a unique identifier, high detectability, and are easy to use.
+
+![image](https://github.com/user-attachments/assets/c56e2989-6e93-4d30-8c61-3a642d3d46ac)
 
 ### Advantages of Using ArUco Markers
 - **Ease of Use:** Easy to print and deploy.
