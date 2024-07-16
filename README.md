@@ -5,7 +5,7 @@ This project aims to develop a UAV system that can autonomously land on a moving
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Screenshots](#screenshots)
+- [Screenshots/Videos](#screenshots-videos)
 - [Background and Motivation](#background-and-motivation)
 - [Objectives](#objectives)
 - [Key Components](#key-components)
@@ -25,7 +25,7 @@ This project aims to develop a UAV system that can autonomously land on a moving
 ## Background and Motivation
 Traditional UAV landing methods are limited and not suitable for dynamic environments. This project addresses this need for precision, with applications in logistics, military, and rescue missions.
 
-## Screenshots
+## Screenshots/Videos
 https://github.com/user-attachments/assets/efe6aa5e-7c5d-413b-8058-ab73d69cfaa0
 
 ## Objectives
