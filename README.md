@@ -107,11 +107,11 @@ The system was tested in an indoor environment using the DJI Tello UAV, showing 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/autonomous-uav-landing.git
+    git clone https://github.com/KashifKhaan/UAV-MovingPlatformLanding-DjiTello
     ```
 2. Navigate to the project directory:
     ```bash
-    cd autonomous-uav-landing
+    cd UAV-MovingPlatformLanding-DjiTello
     ```
 3. Install the required Python packages:
     ```bash
